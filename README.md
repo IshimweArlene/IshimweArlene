@@ -26,7 +26,3 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
 ---
-
-### 📊 GitHub Stats:
-![Arlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshimweArlene&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshimweArlene&layout=compact&theme=radical)  
