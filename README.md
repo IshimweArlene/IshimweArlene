@@ -2,18 +2,17 @@
 
 💜 A passionate Software Developer from Rwanda  
 
-- 🌱 I’m currently learning **Java, React, and Embedded Systems**  
-- 👯 I’m looking to collaborate on **web & embedded projects**  
+- 🌱 I’m currently learning **Java, Angular, and Flutter**  
+- 👯 I’m looking to collaborate on **web, mobile & embedded projects**  
 - 💬 Ask me about **Backend, Frontend, Databases, and C/Java**  
-- 📫 How to reach me: **your-email@gmail.com**  
+- 📫 How to reach me: **ishimwearlene74**  
 - ⚡ Fun fact: I love turning ideas into working code 🚀  
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ishimwe-arlene-401028342/))  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-link](https://www.instagram.com/_arl_ene/))  
 
 ---
 
