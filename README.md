@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Java, Angular, and Flutter**  
 - 👯 I’m looking to collaborate on **web, mobile & embedded projects**  
 - 💬 Ask me about **Backend, Frontend, Databases, and C/Java**  
-- 📫 How to reach me: **ishimwearlene74**  
+- 📫 How to reach me: **ishimwearlene74@gmail.com**  
 - ⚡ Fun fact: I love turning ideas into working code 🚀  
 
 ---
