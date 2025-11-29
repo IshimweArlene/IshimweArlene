@@ -23,3 +23,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-30363D?style=for-the-badge&logo=css3&logoColor=white)  
 ![C](https://img.shields.io/badge/C-30363D?style=for-the-badge&logo=c&logoColor=white)  
+
+---
+<!--
+### 📊 GitHub Stats:
+![Arlene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshimweArlene&show_icons=true&theme=radical&hide_border=true)
+
+### 🔥 GitHub Streak:
+![Arlene's GitHub Streak](https://streak-stats.demolab.com?user=IshimweArlene&theme=radical&hide_border=true)
+
+### 📝 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshimweArlene&layout=compact&theme=radical&hide_border=true) -->
